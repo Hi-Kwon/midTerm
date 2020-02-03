@@ -7,6 +7,7 @@ import midTerm.character;
 
 public class mainGame
 	{
+		//I wonder if this will work
 		static int newGoblinHealth = 0;
 		static Scanner myScanner = new Scanner(System.in);
 		static ArrayList <character> chooseCharacter1 = new ArrayList <character>();
